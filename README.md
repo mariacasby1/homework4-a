@@ -1,0 +1,3 @@
+# homework4
+
+This homework is now due in ten minutes, and I have not yet satisfied the last requirement - to list high scores.  My app will currently list the previous player name and score only.  Another thing that is somewhat altered is that the score does not decrease with wrong answers. The user has a set number of seconds to answer as many questions as possible and the game ends when the time ends.   So it is not perfect, by any means.

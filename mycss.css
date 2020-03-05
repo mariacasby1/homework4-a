@@ -1,0 +1,76 @@
+#main {
+    position: relative;
+width: 700px;
+height: 500px;
+background-color: tan;
+margin: 20px;
+padding: 40px;
+border-radius: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+color: blue;
+font-weight:bold;
+line-height: 1.8em;
+}
+
+#main p {
+    font-size: 22px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+#part2 {
+    position: absolute;
+    left: 50px;
+    bottom: 20px;
+    width: 500px;
+    height: 150px;
+}
+#myCounter {
+    position: absolute;
+    right: 50px;
+    font-size: 60px;
+    color: green;
+}
+.display {
+    display: none;
+}
+h4 {
+    text-align: center;
+    font-size: 40px;
+    color: red;  
+}
+li {
+    display: block;
+    margin-bottom: 15px;
+}
+#result {
+    color: red;
+    font-size: 48px;
+    
+}
+.nodisplay {
+    display: none;
+
+}
+.display1 {
+    display: block;
+}
+#displayname {
+    display: block;
+    width: 150px;
+    color: red;
+    font-size: 48px;
+    float: left;
+}
+#myInput {
+    display:block;
+    width: 350px;
+    float: left;
+
+}
+#scorewrap {
+    clear: both;
+}
+#nameButton {
+    margin-top: 20px;
+}
