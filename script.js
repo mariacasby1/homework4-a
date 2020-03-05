@@ -88,7 +88,7 @@ var value;
 var myName;
 
     var myTimer = function () {
-        var counters = 10;
+        var counters = 30;
 
         setInterval(function () {
             counters--;
